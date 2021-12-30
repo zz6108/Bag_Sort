@@ -1,0 +1,16 @@
+## Interface: 30000
+
+## Title: Bag Sort
+
+## Notes: Sorts the contents of your bags.
+
+## Version: 2.0.2
+
+## Author: Ryan Hamshire
+
+## X-Website: http://my.curse.com/ryanhamshire
+
+## OptionalDeps: 
+## SavedVariables:
+## Dependencies: 
+Bag_Sort.xml
